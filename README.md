@@ -4,7 +4,7 @@
 1.0.0
 
 ## Usage
-jest batch testing insert multiple values to test against a function
+jest batch testing  <br /> insert multiple values to test against a function
 ### Installation
 
 Install the dependencies
