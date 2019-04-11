@@ -12,7 +12,7 @@ Install the dependencies
 $ npm install
 
 
-### Build
+### Run Test
 
 npm run test <br />
 npm run coverage <br />
