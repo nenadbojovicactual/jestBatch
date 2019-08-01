@@ -6,8 +6,7 @@
   "dependencies": {
     "jest": "^24.7.1"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "jest",
     "coverage": "jest --collect-coverage"
